@@ -1,1 +1,2 @@
-Includes resume, papers and project
+# Includes resume, papers and project
+# For project details, please refer to project folder
