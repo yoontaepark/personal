@@ -1,1 +1,1 @@
-### Includes resume, papers and project
+Includes resume, papers and project
